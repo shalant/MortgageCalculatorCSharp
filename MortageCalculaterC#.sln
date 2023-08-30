@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MortageCalculaterC", "MortageCalculaterC#\MortageCalculaterC.csproj", "{F866552E-412E-4C1C-BBFC-F8A4D17ACFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F866552E-412E-4C1C-BBFC-F8A4D17ACFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F866552E-412E-4C1C-BBFC-F8A4D17ACFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F866552E-412E-4C1C-BBFC-F8A4D17ACFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F866552E-412E-4C1C-BBFC-F8A4D17ACFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E48518-4758-426E-9E83-1935995895FB}
+	EndGlobalSection
+EndGlobal
